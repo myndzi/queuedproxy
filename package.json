@@ -1,0 +1,16 @@
+{
+  "name": "queuedproxy",
+  "version": "0.1.0",
+  "description": "Function wrapper with an online/offline mode and a queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "make"
+  },
+  "author": "Kris Reeves",
+  "license": "MIT",
+  "dependencies": {
+    "should": "~2.1.0",
+    "when": "~2.6.0",
+    "mocha": "git+https://github.com/myndzi/mocha"
+  }
+}
